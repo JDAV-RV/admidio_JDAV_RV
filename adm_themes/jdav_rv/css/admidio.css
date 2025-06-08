@@ -10,7 +10,7 @@
  *****************************************************************************/
 
 #admidio-main-navbar {
-    background-color: #349aaa;
+    background-color: #57ab27;
     min-height: 4rem;
     position: sticky;
     padding-bottom: 0;
@@ -28,12 +28,12 @@
 }
 
 #admidio-main-navbar a {
-    color: #263340;
+    color: #ffffff;
     font-size: 1rem
 }
 
 #admidio-main-navbar a:hover {
-    color: #000000;
+    color: #ffffff;
 }
 
 @media (max-width: 767px)
@@ -61,7 +61,7 @@
 /***********************************/
 .admidio-sidebar {
     padding: 0;
-    background-color: #263340;
+    background-color: #707680;
     overflow-y: auto;
 }
 
@@ -85,7 +85,7 @@
 }
 
 .admidio-menu-list a {
-    color: #dddddd;
+    color: #ffffff;
 }
 
 .admidio-menu-list .dropdown-item {
@@ -117,7 +117,7 @@
     text-transform: uppercase;
     padding: 8px 16px;
     margin: 0;
-    color: rgba(222, 222, 222, 0.65);
+    color: #ffffff;
 }
 
 /***********************************/
